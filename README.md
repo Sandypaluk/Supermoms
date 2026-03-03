@@ -61,7 +61,7 @@ npx serve .
 
 ## 🌍 Live Demo
 
-[**supermom.yourusername.github.io**](https://yourusername.github.io/supermom)
+[**sandypaluk.github.io/supermoms**](https://sandypaluk.github.io/supermoms/)
 
 ---
 
